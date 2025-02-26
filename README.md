@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuliaSilvia22
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Python for AI
+- 👀 Interested in Artificial Intelligence
+- 🌱 Currently learning Python for AI
 - ⚡ Fun fact: full time mama
 
 <!---
